@@ -1,8 +1,8 @@
-# Example Code Repository
+# Exemplos Spring Rest Template
 
 [![CI](https://github.com/thombergs/code-examples/workflows/CI/badge.svg)](https://github.com/thombergs/code-examples/actions?query=workflow%3ACI)
 
-This repo contains example projects which show how to use different (not only) Java technologies.
-The examples are usually accompanied by a blog post on [https://reflectoring.io](https://reflectoring.io).
+Este repositório contém exemplos que mostram como usar o Spring RestTemplate para fazer requisições HTTP utilizando GET, POST, PUT e DELETE.
+Os exemplos foram desenvolvidos por Pratik Das e comentados no artigo [Complete Guide to Spring RestTemplate]([https://reflectoring.i](https://reflectoring.io/spring-resttemplate/).
 
-See the READMEs in each subdirectory of this repo for more information on each module.
+Veja os arquivos README em cada subdiretório deste repositório para mais informações de cada módulo.
